@@ -11,19 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CailinBellWold/Tech-Blog.git"
+    "url": "git+https://github.com/ralphmenard0"
   },
   "keywords": [
     "Tech",
     "Blog",
     "Homework"
   ],
-  "author": "Cailin Bell Wold",
+  "author": "Ralph Menard",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CailinBellWold/Tech-Blog/issues"
+    "url": "https://github.com/ralphmenard0"
   },
-  "homepage": "https://github.com/CailinBellWold/Tech-Blog#readme",
+  "homepage": "https://github.com/ralphmenard0",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "connect-session-sequelize": "^7.0.4",
