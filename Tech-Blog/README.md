@@ -109,7 +109,7 @@ The Dashboard while in a logged-in state. The user can add new articles, as well
 
 ## MIT License
 
-&copy;2021 Cailin Bell Wold
+&copy;2022 Ralph Menard
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -130,4 +130,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Questions
-For inquiries, please contact [Raiph](https://github.com/ralphmenard0).
+For inquiries, please contact [Ralph Menard](https://github.com/ralphmenard0).
