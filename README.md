@@ -1,4 +1,8 @@
 14 Model-View-Controller (MVC): Tech Blog
+
+Deployed App URL:
+https://my-jsapp-js.herokuapp.com/
+
 License: MIT
 
 Description
